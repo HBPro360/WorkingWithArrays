@@ -1,0 +1,6 @@
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArrays\WorkingWithArrays\bin\Debug\WorkingWithArrays.exe.config
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArrays\WorkingWithArrays\bin\Debug\WorkingWithArrays.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArrays\WorkingWithArrays\bin\Debug\WorkingWithArrays.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.csprojResolveAssemblyReference.cache
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.pdb
